@@ -1,47 +1,10 @@
 # Nikola Petrović
 
-**AI Engineer**  
-Building end-to-end AI systems with a strong focus on backend engineering, frontend development, and real-world usability.
+AI Engineer focused on building end-to-end AI products and LLM-based systems, from system design and backend services to frontend development and user experience.
 
----
+I work on LLM-powered systems integrated into real applications through well-structured APIs and system pipelines, with an emphasis on practical implementation and production readiness.
 
-## What I do
-
-- Design and build **LLM-based systems** grounded in real data
-- Develop **AI-driven products** from backend services to frontend interfaces
-- Integrate LLMs into applications using **Node.js, APIs, and modern web stacks**
-- Focus on **system reliability, clarity, and user experience** when working with AI
-
----
-
-## Tech Stack
-
-**Backend**
-- Node.js, Express
-- REST APIs, OAuth 2.0
-- LLM integration, RAG architectures
-
-**Frontend**
-- React, Next.js
-- TypeScript, Tailwind CSS
-
-**AI & Systems**
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Knowledge-grounded AI systems
-
----
-
-## Current Focus
-
-- Building **production-ready AI systems**
-- LLM integration patterns for real products
-- End-to-end AI engineering (backend → frontend → UX)
-
----
-
-## Links
-
+Tech stack: Node.js, React, LLMs, RAG
 - 💼 LinkedIn: https://www.linkedin.com/in/NikolaPetrovicAi  
 - 🧑‍💻 GitHub: https://github.com/NikolaPetrovicAi  
 

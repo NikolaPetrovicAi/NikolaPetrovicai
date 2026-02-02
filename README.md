@@ -4,7 +4,7 @@ AI Engineer focused on building end-to-end AI products and LLM-based systems, fr
 
 I work on LLM-powered systems integrated into real applications through well-structured APIs and system pipelines, with an emphasis on practical implementation and production readiness.
 
-Tech stack: JavaScript · TypeScript · Node.js · React · Next.js · LLMs · RAG · OpenAI Assistants · OAuth2 · n8n · Webhooks · Git
+Tech stack: JavaScript · TypeScript · Node.js · React · Next.js · LLMs · RAG · OpenAI Assistants · OAuth2 · Webhooks · Git
 - 💼 LinkedIn: https://www.linkedin.com/in/NikolaPetrovicAi  
 - 🧑‍💻 GitHub: https://github.com/NikolaPetrovicAi  
 

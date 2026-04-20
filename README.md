@@ -23,8 +23,3 @@ I specialize in architecting production-ready LLM infrastructure, focusing on re
  - 📧 [npetrovicai@gmail.com](mailto:npetrovicai@gmail.com)
  - 🌍 Belgrade, Serbia / Remote
 
- ---
- <p align="left">
-   <img
-      src="https://github-readme-stats.vercel.app/api?username=NikolaPetrovicAi&show_icons=true&theme=transparent&hide_b order=true" alt="Nikola's Stats" width="400" />
-</p>

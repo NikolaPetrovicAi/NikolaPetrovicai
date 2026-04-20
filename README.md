@@ -1,30 +1,30 @@
-# Nikola Petrović
+ # Nikola Petrović
+ 
+Applied AI Engineer | LLM Systems Architect
 
-AI Engineer focused on building end-to-end AI products and LLM-based systems, from system design and backend services to frontend development and user experience.
+**"Building AI systems, not demos."**
 
-I work on LLM-powered systems integrated into real applications through well-structured APIs and system pipelines, with an emphasis on practical implementation and production readiness.
+I specialize in architecting production-ready LLM infrastructure, focusing on reliability, observability, and deterministic workflows.
+     ---
+     
+ ### 🛠️ Core Expertise
+ - **LLM Ops:** PromptOps (YAML/Jinja2), Evaluation Frameworks (DeepEval), Tracing (Langfuse).
+ - **Engineering:** Semantic Caching (L1/L2), Structured Outputs (Instructor/Pydantic), RAG.
+ - **Stack:** Python (FastAPI), TypeScript (Next.js/Node.js), Vector DBs (FAISS).
 
-Tech stack: JavaScript · TypeScript · Node.js · React · Next.js · LLMs · RAG · OpenAI Assistants · OAuth2 · Webhooks · Git
-- 💼 LinkedIn: https://www.linkedin.com/in/NikolaPetrovicAi  
-- 🧑‍💻 GitHub: https://github.com/NikolaPetrovicAi  
+ ### 🚀 Key Projects
+ - **Viral Content Engine:** AI pipeline with tiered semantic caching and automated quality audit.
+ - **Aivy:** Dual-agent document generator with structured planning and Google Docs integration.
 
----
+ ---
 
-*Building AI systems, not demos.*
+ ### 📫 Connect with me
+ - 💼 [LinkedIn](https://www.linkedin.com/in/NikolaPetrovicAi)
+ - 📧 [npetrovicai@gmail.com](mailto:npetrovicai@gmail.com)
+ - 🌍 Belgrade, Serbia / Remote
 
-
-
-<!--
-**NikolaPetrovicAi/NikolaPetrovicai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ---
+ <p align="left">
+   <img
+      src="https://github-readme-stats.vercel.app/api?username=NikolaPetrovicAi&show_icons=true&theme=transparent&hide_b order=true" alt="Nikola's Stats" width="400" />
+</p>

@@ -10,5 +10,4 @@ I'm a reliability engineer, not a Django veteran. A codemod rewrites what its au
 
 **Stack:** Python (Django, FastAPI), TypeScript/Node, Next.js, Postgres, Docker, pytest · DeepEval, LLM-as-judge, Langfuse, Pydantic/Instructor.
 
-Belgrade, Serbia, Remote
-Email: npetrovicai@gmail.com
+Belgrade, Serbia, Remote - Email: npetrovicai@gmail.com

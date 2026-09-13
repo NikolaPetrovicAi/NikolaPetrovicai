@@ -1,13 +1,16 @@
-## Nikola Petrović
+### Software Engineer · Systems, Reliability & Applied AI
+*Building scalable backend architectures, high-performance web applications, and reliable software systems.*
 
-**Applied AI Engineer · Code Migrations & Software Reliability**
+I’m a software engineer focused on clean architecture, software reliability, and robust API design. I specialize in building maintainable full-stack and backend systems in Python and TypeScript, applying rigorous engineering standards—from strict schema validation and automated testing to differential verification and production observability.
 
-I took [Healthchecks](https://github.com/healthchecks/healthchecks) — a 9k★ cron-monitoring SaaS — from Django 4.2.6 to 5.2.16 and compared 770 recorded HTTP request/response pairs, old version against new, byte for byte. The 686 that exercise the application's own code came back **0 different**. The one real change it surfaced: `GET /admin/logout/` returns 405 instead of 200 — found before merge, rather than as a broken link weeks after deploy.
+**Core Focus & Representative Work:**
+* **Backend Architecture & API Design:** Designing clean, modular REST APIs and web services in Python (FastAPI, Django) and TypeScript (Node.js/Express). Emphasizing strict data contracts (`Pydantic`), dependency injection patterns, and clean separation of concerns.
+* **Full-Stack & Editor Systems:** Built **Aivy**, a document orchestration system (Next.js, Node.js, Google Docs API). Solved rich-text performance bottlenecks by engineering ProseMirror state isolation to maintain a 60FPS responsive UI during high-frequency data streaming.
+* **Software Reliability & Automated Verification:** Built a machine-checked differential testing harness for framework upgrades (Django 4.2 → 5.2 on a 9k★ SaaS), validating 770 HTTP request/response pairs with zero application regressions before deployment.
+* **Applied AI & Deterministic Workflows:** Integrating AI into production software using schema constraints (`Instructor`), quantitative evaluation frameworks (`DeepEval`), tiered semantic caching, and full tracing (`Langfuse`).
 
-**→ [The harness, the corpus and the full report](https://github.com/NikolaPetrovicAi/differential-upgrade-harness)**, including a section on what it does not prove.
+**Stack & Tooling:**
+* **Languages & Core:** Python (FastAPI, Django), TypeScript/Node.js, React / Next.js, Postgres, Docker, pytest
+* **Engineering & Tools:** REST APIs, Pydantic, ProseMirror/Tiptap, Git, CI/CD, Langfuse, Instructor, DeepEval
 
-I'm a reliability engineer, not a Django veteran. A codemod rewrites what its author anticipated; an agent writes the change and sounds certain about it. Neither one measures what the running system did before and after — that measurement is what I build. It comes out of LLM reliability work: evals, tracing, schema-constrained output. Same tooling, pointed at a codebase instead of a model — the other repos are that side of it.
-
-**Stack:** Python (Django, FastAPI), TypeScript/Node, Next.js, Postgres, Docker, pytest · DeepEval, LLM-as-judge, Langfuse, Pydantic/Instructor.
-
-Belgrade, Serbia, Remote - Email:  npetrovicai@gmail.com
+📍 Belgrade, Serbia · Remote · Email: npetrovicai@gmail.com
